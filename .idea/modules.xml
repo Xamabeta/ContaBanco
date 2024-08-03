@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ContaTerminal.iml" filepath="$PROJECT_DIR$/.idea/ContaTerminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContaTerminalDois/ContaTerminalDois.iml" filepath="$PROJECT_DIR$/ContaTerminalDois/ContaTerminalDois.iml" />
+    </modules>
+  </component>
+</project>
